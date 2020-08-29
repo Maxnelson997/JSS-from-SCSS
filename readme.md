@@ -1,16 +1,9 @@
-## In-depth Webpack Setup 
-including the following:
- - **Development & production webpack configs**
- - **Common & Merge webpack configs**
- - **Source mapping options**
- - **Handling ENV variables with webpack plugins**
- - **Webpack Addons**
- - **Babel**
- - **React** 
- - **SCSS**
- - **Fonts**
-  
-### Source Mapping
-While building this repo I gathered a deep understanding of the available Webpack Source Map options. [This blog post explains a number of source maps](https://blog.scottlogic.com/2017/11/01/webpack-source-map-options-quick-guide.html) and categorizes them into categories for production or development use.
+## CSS in JS -- JSS
+The goal of building this repo is to illustrate my understanding of CSS in JS. I will do this by completing the following list of tasks I created:
+- clone my webpack repo & setup this repo.
+- install JSS.
+- convert the existing boilerplate layout.scss structure to completely use JSS.
+- leave detailed commits to ensure readability.
 
+##### this repo was generated off my webpack in-depth repo which can be [found here](https://github.com/Maxnelson997/WebpackBabelReact-InDepth).
 ##### See [My Website](https://www.maxnelson.io) For More Development Related Content.
