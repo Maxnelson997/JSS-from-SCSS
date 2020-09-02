@@ -4,6 +4,18 @@ h1 {
     color: $h1-main;
 }
 
+.layout-wrapper {
+    height: auto;
+    width: 100vw;
+    min-height: 100vh;
+    
+    display: grid;
+    grid-template-rows: 20px [s] 1fr [e] 20px;
+    grid-template-columns: 50px [s] 1fr [e] 50px;
+}
+
+
+
 // fonts
 @import './fonts';
 
